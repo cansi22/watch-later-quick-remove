@@ -44,6 +44,8 @@
 * **`assets/capture.png`** – Animated GIF or screenshot showing the script in action.
 * **`LICENSE`** – MIT License.
 ---
+## Changelog
+You can check all changes in [CHANGELOG.md](./CHANGELOG.md).
 
 ## 🤝 Contributing
 
